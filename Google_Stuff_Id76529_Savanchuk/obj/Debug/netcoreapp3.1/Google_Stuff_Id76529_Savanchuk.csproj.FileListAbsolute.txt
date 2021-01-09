@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\Google_Stuff_Id76529_Savanchuk\bin\Debug\netcoreapp3.1\Google_Stuff_Id76529_Savanchuk.exe
+C:\Users\Asus\source\repos\Google_Stuff_Id76529_Savanchuk\bin\Debug\netcoreapp3.1\Google_Stuff_Id76529_Savanchuk.deps.json
+C:\Users\Asus\source\repos\Google_Stuff_Id76529_Savanchuk\bin\Debug\netcoreapp3.1\Google_Stuff_Id76529_Savanchuk.runtimeconfig.json
+C:\Users\Asus\source\repos\Google_Stuff_Id76529_Savanchuk\bin\Debug\netcoreapp3.1\Google_Stuff_Id76529_Savanchuk.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Google_Stuff_Id76529_Savanchuk\bin\Debug\netcoreapp3.1\Google_Stuff_Id76529_Savanchuk.dll
+C:\Users\Asus\source\repos\Google_Stuff_Id76529_Savanchuk\bin\Debug\netcoreapp3.1\Google_Stuff_Id76529_Savanchuk.pdb
+C:\Users\Asus\source\repos\Google_Stuff_Id76529_Savanchuk\obj\Debug\netcoreapp3.1\Google_Stuff_Id76529_Savanchuk.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Google_Stuff_Id76529_Savanchuk\obj\Debug\netcoreapp3.1\Google_Stuff_Id76529_Savanchuk.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Google_Stuff_Id76529_Savanchuk\obj\Debug\netcoreapp3.1\Google_Stuff_Id76529_Savanchuk.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Google_Stuff_Id76529_Savanchuk\obj\Debug\netcoreapp3.1\Google_Stuff_Id76529_Savanchuk.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Google_Stuff_Id76529_Savanchuk\obj\Debug\netcoreapp3.1\Google_Stuff_Id76529_Savanchuk.dll
+C:\Users\Asus\source\repos\Google_Stuff_Id76529_Savanchuk\obj\Debug\netcoreapp3.1\Google_Stuff_Id76529_Savanchuk.pdb
+C:\Users\Asus\source\repos\Google_Stuff_Id76529_Savanchuk\obj\Debug\netcoreapp3.1\Google_Stuff_Id76529_Savanchuk.genruntimeconfig.cache
